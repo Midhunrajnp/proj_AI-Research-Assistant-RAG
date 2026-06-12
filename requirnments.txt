@@ -1,0 +1,14 @@
+google-generativeai
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+rank-bm25
+pypdf
+arxiv
+youtube-transcript-api
+beautifulsoup4
+requests
+tiktoken
+numpy
+pandas
